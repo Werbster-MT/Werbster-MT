@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho com desenvolvimento frontend 
 - 🌱 Atualmente estudando React 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/https://github.com/Werbster-MT">
