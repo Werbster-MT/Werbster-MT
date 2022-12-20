@@ -1,5 +1,4 @@
 <h1>Hello World, sou o Werbster Marques</h1>
-<h2>Mais conhecido como Beto </h2>
 
 - 🔭 Trabalho com desenvolvimento frontend 
 - 🌱 Atualmente estudando React 
