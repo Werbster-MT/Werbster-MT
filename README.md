@@ -1,6 +1,7 @@
 <h1>Hello World, sou o Werbster Marques</h1>
 
-- 🔭 Trabalho com desenvolvimento frontend 
+- 🔭 Engenheiro de Software Jr
+- 💻 Trabalho com desenvolvimento Python E Sistemas Web 
 - 🌱 Atualmente estudando React 
 - 😄 Pronomes: ele/dele
 
