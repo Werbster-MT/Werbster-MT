@@ -1,8 +1,8 @@
 <h1>Hello World, sou o Werbster Marques</h1>
 
-- 🔭 Engenheiro de Software Jr
-- 💻 Trabalho com desenvolvimento Python E Sistemas Web 
-- 🌱 Atualmente estudando React 
+- 🔭 Full Stack Developer
+- 💻 Trabalho com desenvolvimento sistemas Web e python.
+- 🌱 Atualmente estudando React, Express, Bootstrap 
 - 😄 Pronomes: ele/dele
 
 <div align="center">
@@ -11,11 +11,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werbster-MT&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Beto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
   ##
@@ -25,7 +27,3 @@
   <a href = "mailto:wmteixeira.88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/werbster-marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-   ![Snake animation](https://github.com/Werbster-MT/Werbster-MT/blob/output/github-contribution-grid-snake.svg)
-  
-  
