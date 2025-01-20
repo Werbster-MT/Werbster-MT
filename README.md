@@ -1,8 +1,8 @@
 <h1>Hello World, sou o Werbster Marques</h1>
 
 - 🔭 Full Stack Developer
-- 💻 Trabalho com desenvolvimento sistemas Web e python.
-- 🌱 Atualmente estudando Rest APIs, Codeigniter, Express, Bootstrap, React
+- 💻 Trabalho com desenvolvimento sistemas Web.
+- 🌱 Atualmente estudando AWS CI/CD Pipelines, PHP, Codeigniter, JS, Bootstrap, MySQL
 - 😄 Pronomes: ele/dele
 
 <div align="center">
@@ -15,10 +15,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="CI" height="30" width="40" src="https://raw.githubusercontent.com//devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/my-sql/my-sql-original.svg">
 </div>
 
   ##
