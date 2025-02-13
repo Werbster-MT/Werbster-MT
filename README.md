@@ -1,9 +1,8 @@
 <h1>Hello World, sou o Werbster Marques</h1>
 
-- 🔭 Full Stack Developer
-- 💻 Trabalho com desenvolvimento Python e Sistemas Web.
-- 🌱 Atualmente estudando Python, AWS, CI/CD Pipelines, PHP, Codeigniter, JS, Bootstrap, MySQL
-- 😄 Pronomes: ele/dele
+- 🔭 Desenvolvedor Full Stack
+- 💻 Trabalho com desenvolvimento de Sistemas Web.
+- 🌱 Conhecimentos: PHP, Codeigniter, Nodejs, Python, Java, Mysql, HTML, CSS, Javascript, Bootstrap, AWS, Azure e CI/CD.
 
 <div align="center">
   <a href="https://github.com/https://github.com/Werbster-MT">
